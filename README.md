@@ -9,3 +9,7 @@ My submissions for the #30DayChartChallenge held in April 2022.
 - Day 2. pictogram
 
 ![Day 2](/02-pictogram/plot.png)
+
+- Day 3. historical
+
+![Day 3](03-historical/plot.png)
