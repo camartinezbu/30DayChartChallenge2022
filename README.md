@@ -13,3 +13,7 @@ My submissions for the #30DayChartChallenge held in April 2022.
 - Day 3. historical
 
 ![Day 3](03-historical/plot.png)
+
+- Day 4. flora
+
+![Day 4](04-flora/plot.png)
