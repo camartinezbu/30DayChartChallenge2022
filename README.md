@@ -29,3 +29,10 @@ My submissions for the #30DayChartChallenge held in April 2022.
   
 ![Day 4](04-flora/plot.png)
 </details>
+
+### Day 5. slope
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 4](05-slope/plot.png)
+</details>

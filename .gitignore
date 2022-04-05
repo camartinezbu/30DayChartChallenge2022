@@ -44,3 +44,5 @@ vignettes/*.pdf
 # Data files
 */data/raw/*
 
+~$*.xslx
+05-slope/data/~$data.xlsx
