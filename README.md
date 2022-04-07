@@ -34,5 +34,12 @@ My submissions for the #30DayChartChallenge held in April 2022.
 <details>
   <summary>Click to expand!</summary>
   
-![Day 4](05-slope/plot.png)
+![Day 5](05-slope/plot.png)
+</details>
+
+### Day 6. data day: OWID
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 6](06-OWID/plot.png)
 </details>
