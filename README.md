@@ -43,3 +43,10 @@ My submissions for the #30DayChartChallenge held in April 2022.
   
 ![Day 6](06-OWID/plot.png)
 </details>
+
+### Day 7. physical
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 6](07-physical/plot.png)
+</details>
