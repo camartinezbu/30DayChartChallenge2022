@@ -55,5 +55,5 @@ My submissions for the #30DayChartChallenge held in April 2022.
 <details>
   <summary>Click to expand!</summary>
   
-![Day 8](08-mountains/plot.png)
+![Day 8](08-mountains/plot2.png)
 </details>
