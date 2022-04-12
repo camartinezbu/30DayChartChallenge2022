@@ -28,8 +28,8 @@ ggplot(data) +
   labs(
     title = "11,8% de las personas que usaron computadores \nen Colombia saben programar",
     subtitle = "Por su parte, más del 88% manifestaron poder copiar o mover un archivo o carpeta. ",
-    caption = "Fuente: Encuesta Nacional de Calidad de Vida 2019 | Elaborado por Camilo Martínez (@camartinezbu)",
-    y = "Porcentaje de personas",
+    caption = "Fuente: Encuesta Nacional de Calidad de Vida 2019 | Elaborado por Camilo Martínez (@camartinezbu).",
+    y = "Porcentaje de personas que usaron un computador",
     x = "Habilidades"
   ) +
   scale_x_discrete(
@@ -59,8 +59,8 @@ ggplot(data) +
              xend = 1.2, yend = 21.25,
              arrow = arrow(length = unit(0.2, "cm")),
              curvature = 0.3) + 
-  annotate("text", x = 0.6, y = 39, label = "Quindio", size = 3.5) +
-  geom_curve(x = 0.6, y = 32,
+  annotate("text", x = 0.75, y = 39, label = "Quindio", size = 3.5) +
+  geom_curve(x = 0.75, y = 32,
              xend = 0.9, yend = 21,
              arrow = arrow(length = unit(0.2, "cm")),
              curvature = -0.3) + 
@@ -84,7 +84,7 @@ ggplot(data) +
     panel.grid.minor =  element_blank(),
     panel.grid.major.x = element_line(color = "lightgrey"),
     legend.position = "none",
-    plot.margin = margin(t = 15, l = 12, r = 12, b = 10)
+    plot.margin = margin(t = 15, l = 12, r = 12, b = 7)
   )
 
 ggsave("09-statistics/plot.png", height = 7, width = 7)
