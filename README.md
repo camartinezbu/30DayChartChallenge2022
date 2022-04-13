@@ -64,3 +64,10 @@ My submissions for the #30DayChartChallenge held in April 2022.
   
 ![Day 9](09-statistics/plot.png)
 </details>
+
+### Day 10. experimental
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 10](10-experimental/plot.png)
+</details>
