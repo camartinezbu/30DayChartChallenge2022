@@ -1,6 +1,6 @@
 # 30DayChartChallenge2022
 
-My submissions for the #30DayChartChallenge held in April 2022.
+My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022) held on April 2022.
 
 ### Day 1. part-to-whole
 <details>
