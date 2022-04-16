@@ -99,3 +99,11 @@ My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30D
   
 ![Day 14](14-3-dimensional/plot.png)
 </details>
+
+### Day 15. multivariate
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 15](15-multivariate/plot.png)
+</details>
+
