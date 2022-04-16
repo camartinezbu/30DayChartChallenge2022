@@ -44,8 +44,5 @@ vignettes/*.pdf
 # Data files
 */data/raw/*
 
-~$*.xslx
-05-slope/data/~$data.xlsx
-09-statistics/data/~$data.xlsx
-11-circular/data/~$TM.xlsx
-12-the-economist/data/~$data.xlsx
+# Temporary excel files
+~$*
