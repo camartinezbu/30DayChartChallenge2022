@@ -92,3 +92,10 @@ My submissions for the #30DayChartChallenge held in April 2022.
   
 ![Day 13](13-correlation/plot.png)
 </details>
+
+### Day 14. 3 dimensional
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 14](14-3-dimensional/plot.png)
+</details>
