@@ -107,3 +107,10 @@ My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30D
 ![Day 15](15-multivariate/plot.png)
 </details>
 
+### Day 16. environment
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 15](16-environment/plot.png)
+</details>
+
