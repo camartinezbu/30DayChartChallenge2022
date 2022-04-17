@@ -48,7 +48,7 @@ ggplot() +
           alpha = 0.4, color = "#16BE5A") +
   labs(
     title = "Negocios verdes \ny sostenibles en Colombia",
-    subtitle = "Negocios certificados por el Ministerio de Ambiente \ny Desarrollo Sostenible entre 2014 y 2020.",
+    subtitle = "Negocios verificados por el Ministerio de Ambiente \ny Desarrollo Sostenible entre 2014 y 2020.",
     caption = "Fuente: Ministerio de Ambiente y Desarrollo Sostenible | Elaborado por Camilo Martínez (@camartinezbu)\nNota: La lista de negocios incluye los niveles de resultado Inicial, Básico, Intermedio, Satisfactorio, Avanzado e Ideal.\nPara ubicar los puntos en el mapa se usó el centroide del polígono asociado a cada municipio.",
     size = "No. de negocios"
   ) +
