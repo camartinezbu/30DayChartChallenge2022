@@ -111,6 +111,12 @@ My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30D
 <details>
   <summary>Click to expand!</summary>
   
-![Day 15](16-environment/plot.png)
+![Day 16](16-environment/plot.png)
 </details>
 
+### Day 16. connections
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 17](17-connections/plot.png)
+</details>
