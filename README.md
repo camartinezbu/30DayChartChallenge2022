@@ -120,3 +120,10 @@ My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30D
   
 ![Day 17](17-connections/plot.png)
 </details>
+
+### Day 18. data day: OECD
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 18](18-OECD/plot.png)
+</details>
