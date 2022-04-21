@@ -31,7 +31,7 @@ ggraph(graph_tm, circular = TRUE) +
   ) +
   scale_color_manual(
     values = c(
-      "A" = "#dd0820",
+      "A" = "#30258E",
       "B" = "#63b332",
       "C" = "#feb533",
       "D" = "#76579d",
@@ -48,7 +48,7 @@ ggraph(graph_tm, circular = TRUE) +
   ) +
   scale_fill_manual(
     values = c(
-      "A" = "#dd0820",
+      "A" = "#30258E",
       "B" = "#63b332",
       "C" = "#feb533",
       "D" = "#76579d",
