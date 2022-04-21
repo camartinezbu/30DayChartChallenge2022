@@ -114,7 +114,7 @@ My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30D
 ![Day 16](16-environment/plot.png)
 </details>
 
-### Day 16. connections
+### Day 17. connections
 <details>
   <summary>Click to expand!</summary>
   
