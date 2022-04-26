@@ -127,3 +127,14 @@ My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30D
   
 ![Day 18](18-OECD/plot.png)
 </details>
+
+### Day 19. global change
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 19](19-global-change/plot.png)
+</details>
+
+### Day 19. global change
+  
+[Link to chart in Tableau](https://public.tableau.com/app/profile/camartinezbu/viz/30DayChartChallenge-Dia20/petaFLOPs?publish=yes)
