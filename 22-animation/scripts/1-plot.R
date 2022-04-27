@@ -88,18 +88,3 @@ anim_save("22-animation/anim.gif",
           animation = anim,
           width = 6, height = 6, 
           units = "in", res = 150)
-
-
-
-
-ggplot(filter(pop_new, Año == 2005), aes(x = Rango_Edad, fill = Sexo, 
-                    y = ifelse(
-                      test = Sexo == "Hombres",
-                      yes = -Porcentaje_Rango, no = Porcentaje_Rango
-                    ))) +
-  geom_bar(stat = "identity") +
-  coord_flip() +
-  scale_y_continuous(labels = scales::percent_format(accuracy = 2), su) +
-  geom_label(aes(x = 18, y = -.035, label = "Hombres"), fill = "#ff7300", color = "white", fontface = "bold") +
-  geom_label(aes(x = 18, y = .035, label = "Mujeres"), fill = "#00b1be", color = "white", fontface = "bold")
-
