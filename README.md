@@ -145,3 +145,10 @@ My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30D
   
 ![Day 21](21-down-upwards/plot.png)
 </details>
+
+### Day 22. animation
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 22](22-animation/anim.gif)
+</details>
