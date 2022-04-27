@@ -135,6 +135,13 @@ My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30D
 ![Day 19](19-global-change/plot.png)
 </details>
 
-### Day 19. global change
+### Day 20. new tool
   
 [Link to chart in Tableau](https://public.tableau.com/app/profile/camartinezbu/viz/30DayChartChallenge-Dia20/petaFLOPs?publish=yes)
+
+### Day 21. down/upwards
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 21](21-down-upwards/plot.png)
+</details>
