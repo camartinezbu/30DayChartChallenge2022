@@ -152,3 +152,10 @@ My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30D
   
 ![Day 22](22-animation/anim.gif)
 </details>
+
+### Day 23. tiles
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 23](23-tiles/plot.png)
+</details>
