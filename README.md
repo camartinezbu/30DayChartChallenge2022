@@ -159,3 +159,10 @@ My submissions for the [#30DayChartChallenge](https://github.com/dominicroye/30D
   
 ![Day 23](23-tiles/plot.png)
 </details>
+
+### Day 24. financial times
+<details>
+  <summary>Click to expand!</summary>
+  
+![Day 24](24-financial-times/plot.png)
+</details>
